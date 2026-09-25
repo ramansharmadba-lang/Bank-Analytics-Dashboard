@@ -68,6 +68,7 @@ Bank-Analytics-Dashboard/
 
 
 ## 📸 Dashboard Preview
+https://github.com/ramansharmadba-lang/Bank-Analytics-Dashboard/blob/main/Bank_Dashboard.png
 
 ## 💡 Key Skills Demonstrated
 
