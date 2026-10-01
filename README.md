@@ -69,7 +69,7 @@ Bank-Analytics-Dashboard/
 
 ## 📸 Dashboard Preview
 
-(https://github.com/ramansharmadba-lang/Bank-Analytics-Dashboard/blob/main/Bank_Dashboard.png)
+(https://github.com/ramansharmadba-lang/Bank-Analytics-Dashboard/blob/main/Dashabord_Hospital.png)
 ## 💡 Key Skills Demonstrated
 
 - Power BI dashboard development
